@@ -1,4 +1,4 @@
-import * as THREE from './node_modules/three';
+import * as THREE from '../node_modules/three';
 import { OrbitControls } from './threeJS/planetarium/solar-system/nodes_modules/three/examples/jsm/controls/OrbitControls';
 import { MeshStandardMaterial } from './threeJS/planetarium/solar-system/nodes_modules/three/src/materials/MeshStandardMaterial';
 import { AmbientLight } from './threeJS/planetarium/solar-system/nodes_modules/three/src/lights/AmbientLight';
