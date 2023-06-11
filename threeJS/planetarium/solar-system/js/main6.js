@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from '/three';
 import { OrbitControls } from '/three/examples/jsm/controls/OrbitControls';
 import { MeshStandardMaterial } from '/three/src/materials/MeshStandardMaterial';
 import { AmbientLight } from '/three/src/lights/AmbientLight';
