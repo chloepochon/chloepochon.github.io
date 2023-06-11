@@ -1,7 +1,7 @@
 import * as THREE from '../node_modules/three';
-import { OrbitControls } from '../node_modules/examples/jsm/controls/OrbitControls';
-import { MeshStandardMaterial } from '../node_modules/three/src/materials/MeshStandardMaterial';
-import { AmbientLight } from '../node_modules/three/src/lights/AmbientLight';
+import { OrbitControls } from '../node_modules/examples/jsm/controls/OrbitControls.js';
+import { MeshStandardMaterial } from '../node_modules/three/src/materials/MeshStandardMaterial.js';
+import { AmbientLight } from '../node_modules/three/src/lights/AmbientLight.js';
 
 
 const renderer = new THREE.WebGLRenderer();
