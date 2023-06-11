@@ -1,7 +1,7 @@
 import * as THREE from './threeJS/planetarium/solar-system/three';
-import { OrbitControls } from './threeJS/planetarium/solar-system/three/examples/jsm/controls/OrbitControls';
-import { MeshStandardMaterial } from './threeJS/planetarium/solar-system/three/src/materials/MeshStandardMaterial';
-import { AmbientLight } from './threeJS/planetarium/solar-system/three/src/lights/AmbientLight';
+import { OrbitControls } from './threeJS/planetarium/solar-system/three/examples/jsm/controls/OrbitControls.js';
+import { MeshStandardMaterial } from './threeJS/planetarium/solar-system/three/src/materials/MeshStandardMaterial.js';
+import { AmbientLight } from './threeJS/planetarium/solar-system/three/src/lights/AmbientLight.js';
 
 
 const renderer = new THREE.WebGLRenderer();
