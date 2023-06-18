@@ -10,7 +10,7 @@ Découvrez cette première mini-visualisation du système solaire via ce <a href
 
 <img src="./screenshots/screenshot1.jpg"/>
 
-Pour accéder au <a href="https://github.com/chloepochon/chloepochon.github.io/blob/main/threeJS/planetarium/solar-system/js/main.js" target="_blank">code source</a>
+:point_right: Pour accéder au <a href="https://github.com/chloepochon/chloepochon.github.io/blob/main/threeJS/planetarium/solar-system/js/main.js" target="_blank">code source</a>
 
 Ce travail a été développé grâce à la library JavaScript <a href="https://threejs.org/" target="_blank">ThreeJS</a> et repose sur un environnement <a href="https://nodejs.org" target="_blank">Node.js</a>
 
