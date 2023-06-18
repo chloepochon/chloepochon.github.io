@@ -6,7 +6,7 @@ Bienvenue sur la page de présentation du Planetarium ! Ce projet vise à fourni
 
 Pour commencer, vous pouvez consulter cette première visualisation du système solaire en utilisant ce [lien](https://chloepochon.github.io/threeJS/planetarium/solar-system/). Cliquez dessus pour ouvrir la visualisation dans une nouvelle fenêtre.
 
-![Aperçu du système solaire](./screenshot.jpg)
+![Aperçu du système solaire](./screenshots/screenshot1.jpg)
 
 <!-- Ajoutez d'autres sections et contenus pertinents ici -->
 
