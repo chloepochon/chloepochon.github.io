@@ -1,6 +1,6 @@
-# Le Planetarium :milky_way: :dizzy:
+# Le Planétarium :milky_way: :dizzy:
 
-Dans ce planetarium, je déposerai mes projets de développement 3D et autres expérimentations relatifs à l'espace et aux planètes. 
+Dans ce planétarium, je déposerai mes projets de développement 3D et autres expérimentations relatifs à l'espace et aux planètes. 
 
 ## Le système solaire - voyage dans l'espace
 
