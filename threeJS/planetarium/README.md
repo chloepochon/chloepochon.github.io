@@ -1,4 +1,4 @@
-# Le Planétarium :milky_way: :dizzy:
+# Le Planétarium &#127756; &#128171;
 
 Dans ce planétarium, je déposerai mes projets de développement 3D et autres expérimentations relatifs à l'espace et aux planètes. 
 
