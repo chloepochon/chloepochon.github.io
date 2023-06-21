@@ -6,8 +6,7 @@ Dans ce planétarium, je déposerai mes projets de développement 3D et autres e
 
 3-2-1 ... Embarquez pour un voyage dans le système solaire ! &#128640;
 
-Découvrez cette première mini-visualisation du système solaire 
-<a href="https://chloepochon.github.io/threeJS/planetarium/solar-system/" target="_blank">DEMO</a>.
+Découvrez cette première <a href="https://chloepochon.github.io/threeJS/planetarium/solar-system/" target="_blank">mini-visualisation du système solaire</a>.
 
 <img src="./screenshots/screenshot1.jpg"/>
 
