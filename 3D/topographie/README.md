@@ -1,4 +1,4 @@
-# QGIS x Blender &1F30D;
+# QGIS x Blender &#1F30D;
 
 ## *Finistère*
 
