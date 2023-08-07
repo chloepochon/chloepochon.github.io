@@ -1,4 +1,4 @@
-# QGIS x Blender :earth_africa:
+# QGIS x Blender &1F30D;
 
 ## *Finistère*
 
