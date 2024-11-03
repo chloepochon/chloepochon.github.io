@@ -19,3 +19,7 @@ nav ul li {
 .masthead {
   flex-direction : column;
 }
+
+nav ul li a {
+  text-decoration : none;
+}
