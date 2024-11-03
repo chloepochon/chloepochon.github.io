@@ -1,4 +1,5 @@
 /* Custom style home */
-
+nav {
+  z-index: 1;}
 nav ul li {
   color: white;}
