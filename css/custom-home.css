@@ -1,12 +1,19 @@
 /* Custom style home */
 nav {
-  z-index: 1;}
+  z-index: 1;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
 nav ul {
   list-style : none;
 }
+
 nav ul li {
   color: white;
   display : inline-block;
+  padding-right : 1%;
 }
 
 .masthead {
