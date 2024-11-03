@@ -3,7 +3,12 @@ nav {
   z-index: 1;}
 nav ul {
   list-style : none;
-  display : inline-block;
 }
 nav ul li {
-  color: white;}
+  color: white;
+  display : inline-block;
+}
+
+.masthead {
+  flex-direction : column;
+}
