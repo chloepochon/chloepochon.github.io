@@ -4,6 +4,7 @@ nav {
   position: absolute;
   left: 1%;
   top: 2%;
+  width : 100%;
 }
 
 nav ul {
